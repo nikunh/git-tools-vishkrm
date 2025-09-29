@@ -1,6 +1,6 @@
 {
   "id": "git-tools",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "Advanced Git Tools",
   "description": "Installs Git, Git LFS, Git Flow, tig, diff-so-fancy, and the GitHub CLI (gh).",
   "documentationURL": "https://github.com/nikunh/git-tools-vishkrm",
